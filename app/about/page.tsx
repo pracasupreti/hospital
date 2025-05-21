@@ -1,5 +1,6 @@
-
-
+export const metadata = {
+  title: "About | Hospital Name",
+};
 export default function AboutPage() {
   return (
     <div>
