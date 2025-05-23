@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      <p>This is individual departments page</p>
+      <p>This is seperate department page</p>
     </div>
   )
 }
