@@ -1,11 +1,12 @@
-import React from "react";
+import React from 'react'
 
 const page = () => {
   return (
     <div>
-      <p>This is community page</p>
+      <h1>Community</h1>
+      <p>This is the Community page of our website</p>
     </div>
-  );
-};
+  )
+}
 
-export default page;
+export default page

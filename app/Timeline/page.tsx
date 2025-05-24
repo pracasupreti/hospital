@@ -3,10 +3,8 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      This is timleine page
       <h1>Timeline</h1>
-
-
+      <p>This is the Timeline page of our website</p>
     </div>
   )
 }
