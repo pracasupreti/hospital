@@ -3,14 +3,14 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='flex justify-between items-center bg-gray-800 text-white p-4'>
+    <div className='flex justify-between items-center bg-gray-100 p-4'>
       <p>Logo</p>
 
       <div className='flex gap-4'>
         <Link href="/">Home</Link>
         <Link href="/about">About</Link>
         <Link href="/contact">Contact</Link>
-        <Link href="/departments">Departments</Link>
+        <Link href="/department">Departments</Link>
         <Link href="/services">Services</Link>
       </div>
 

@@ -3,7 +3,8 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      <p>this is mission, vision, goals, and objective page</p>
+      <h1>Frequently asked questions</h1>
+      <p>This is the FAQ page of our website</p>
     </div>
   )
 }

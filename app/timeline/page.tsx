@@ -3,7 +3,8 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      <p>this is news page</p>
+      <h1>Timeline</h1>
+      <p>This is the timeline page of our website</p>
     </div>
   )
 }
